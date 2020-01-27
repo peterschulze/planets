@@ -1,8 +1,9 @@
 Lena's first line
 Making more changes to test mergetool 
 This should be the first comment about Mars
-Cold and dry, but everything is my favorite color
+Cold and dry, but everything is my favorite colors
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
-Mars is an awesome planet. We all should move there
-I don't like mars
+Mars is an awesome planet. We all should move there.
+I don't like mars. It has too many craters.
+Other comment
