@@ -1,4 +1,4 @@
-Malking more changes
+Malking more changes.
 This file contains stuff about mars
 Lena's first line
 Making more changes to test mergetool 
