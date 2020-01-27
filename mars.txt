@@ -1,4 +1,5 @@
 Lena's first line
+Peter's second line
 This should be the first comment about Mars
 Cold and dry, but everything is my favorite colors
 The two moons may be a problem for Wolfman
