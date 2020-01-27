@@ -1,3 +1,7 @@
+Malking more changes
+This file contains stuff about mars
+Lena's first line
+Making more changes to test mergetool 
 This should be the first comment about Mars
 Cold and dry, but everything is my favorite colors
 The two moons may be a problem for Wolfman
